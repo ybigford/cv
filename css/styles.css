@@ -6,13 +6,39 @@ img {height: 120px;
 }
 
 h1 {
-  color: #80558C;
+  color: #7A4495;
+  font-family: monospace;
 }
 
 h3 {
   color: #80558C;
+  font-family: monospace;
+  font-size: 22px;
 }
 
+p {
+  color: #2B4865;
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+td {
+  color: #2B4865;
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+li {
+  color: #2B4865;
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+th {
+  color: #80558C;
+  font-family: monospace;
+  font-size: 17px;
+}
 
  hr {background-color: none;
     border-style: none;
